@@ -1,0 +1,24 @@
+{
+    "name" : "SC_SetAnimation",
+    "library" : "mod",
+    "arguments" :
+    [
+        {
+            "type" : "CBaseEntity *"
+        },
+        {
+            "type" : "int"
+        },
+        {
+            "type" : "int"
+        }
+    ],
+    "identifiers" :
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "svencoop",
+            "value" : [0x55, 0x57, 0x56, 0x53, 0x83, 0xEC, 0x5C, 0xE8, 0x9A, 0x73, 0xCA, 0xFF, 0x81, 0xC3, 0x3A, 0x8B, 0x3A, 0x00]
+        }
+    ]
+}
